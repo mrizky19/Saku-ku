@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "270703147962",
+    "project_id": "khofee-75e65",
+    "storage_bucket": "khofee-75e65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270703147962:android:0566764321b5a15fe5fb83",
+        "android_client_info": {
+          "package_name": "id.co.program_kas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6dFmrYHn9poPORex2qMDTRaiF8Q-OYZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
